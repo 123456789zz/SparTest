@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<server>
+  <hosts>
+    <host ip="10.11.11.34" appID ="" appCert="" />
+  </hosts>
+  
+  
+  <spars>
+    <spar ip="10.11.0.226" phoneId="SEP7426ACF34F37" hostIp="10.11.11.34"/>
+  </spars>
+ 
+  <cards>
+    <card id="159811598115981" userId ="shabnam" />
+    <card id="137361373613736" userId ="Gabby" />
+  </cards>
+  
+  <phones>
+    <phone id="SEP0011932B8B03" ip="some ip" profile="7970 EM" />
+    <phone id="SEP0013C4B18350" ip="some ip" profile="7970 EM" />
+    <phone id="SEP7426ACF34F37" ip="20.11.2.25" profile="DX70" />
+    <phone id="SEP74A02FC0E18C" ip="some ip" profile="8861" />
+  </phones>
+  
+  <!--for future use (if required)-->
+  <users>
+    <user id="shabnam" dirId="7000" />
+  </users>
+</server>
+
+

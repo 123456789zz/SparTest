@@ -1,0 +1,7 @@
+C:\Users\cheng.shan\Desktop\SparTest\XCom\bin\Debug\XCom.dll
+C:\Users\cheng.shan\Desktop\SparTest\XCom\bin\Debug\XCom.pdb
+C:\Users\cheng.shan\Desktop\SparTest\XCom\bin\Debug\RestSharp.dll
+C:\Users\cheng.shan\Desktop\SparTest\XCom\bin\Debug\RestSharp.xml
+C:\Users\cheng.shan\Desktop\SparTest\XCom\obj\Debug\XCom.csprojResolveAssemblyReference.cache
+C:\Users\cheng.shan\Desktop\SparTest\XCom\obj\Debug\XCom.dll
+C:\Users\cheng.shan\Desktop\SparTest\XCom\obj\Debug\XCom.pdb

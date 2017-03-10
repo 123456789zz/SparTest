@@ -1,0 +1,14 @@
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\SparTest.exe.config
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\SparTest.exe
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\SparTest.pdb
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\Spar.dll
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\nsoftware.IPWorks.dll
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\nsoftware.IPWorks.System.dll
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\Spar.pdb
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\nsoftware.IPWorks.xml
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\obj\Debug\SparTest.csprojResolveAssemblyReference.cache
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\obj\Debug\SparTest.exe
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\obj\Debug\SparTest.pdb
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\RestSharp.dll
+C:\Users\cheng.shan\Desktop\SparTest\SparTest\bin\Debug\RestSharp.xml

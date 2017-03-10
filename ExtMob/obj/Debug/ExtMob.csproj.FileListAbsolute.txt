@@ -1,0 +1,9 @@
+C:\Users\cheng.shan\Desktop\SparTest\ExtMob\bin\Debug\ExtMob.dll
+C:\Users\cheng.shan\Desktop\SparTest\ExtMob\bin\Debug\ExtMob.pdb
+C:\Users\cheng.shan\Desktop\SparTest\ExtMob\bin\Debug\Config.dll
+C:\Users\cheng.shan\Desktop\SparTest\ExtMob\bin\Debug\RestSharp.dll
+C:\Users\cheng.shan\Desktop\SparTest\ExtMob\bin\Debug\Config.pdb
+C:\Users\cheng.shan\Desktop\SparTest\ExtMob\bin\Debug\RestSharp.xml
+C:\Users\cheng.shan\Desktop\SparTest\ExtMob\obj\Debug\ExtMob.csprojResolveAssemblyReference.cache
+C:\Users\cheng.shan\Desktop\SparTest\ExtMob\obj\Debug\ExtMob.dll
+C:\Users\cheng.shan\Desktop\SparTest\ExtMob\obj\Debug\ExtMob.pdb

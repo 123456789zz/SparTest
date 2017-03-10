@@ -1,0 +1,5 @@
+C:\Users\cheng.shan\Desktop\SparTest\Config\bin\Debug\Config.dll
+C:\Users\cheng.shan\Desktop\SparTest\Config\bin\Debug\Config.pdb
+C:\Users\cheng.shan\Desktop\SparTest\Config\obj\Debug\Config.csprojResolveAssemblyReference.cache
+C:\Users\cheng.shan\Desktop\SparTest\Config\obj\Debug\Config.dll
+C:\Users\cheng.shan\Desktop\SparTest\Config\obj\Debug\Config.pdb
